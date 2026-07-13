@@ -1,0 +1,13 @@
+1. Evento: La creación de un nuevo reporte de incidencia por parte de un ciudadano en la base de datos
+de la plataforma comunitaria (por ejemplo, mediante un webhook de n8n que detecta un nuevo registro).
+
+2. Mensaje: "¡Nuevo reporte comunitario recibido! 
+                ID del caso: #1024
+                Categoría: Daño en vía pública
+                Ubicación aproximada: Sector Centro
+            Por favor, revisa el panel de administración para gestionar este caso."
+
+3. Información que no debe enviarse: No se deben enviar datos personales del ciudadano que reporta 
+(como su nombre completo, número de cédula, teléfono, correo electrónico o dirección exacta de su 
+domicilio) ni credenciales de acceso al sistema, para proteger la privacidad del veedor y evitar 
+la filtración de información sensible en un canal de chat externo como Telegram.

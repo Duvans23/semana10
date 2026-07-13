@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten trabajar con prioridades claras
+y ciclos cortos de avance, evitando que las tareas se acumulen o se pierdan en la improvisación. Un backlog bien
+gestionado hace visible lo que la comunidad necesita y permite decidir qué atender primero según impacto social. 
+Las iteraciones, además, facilitan revisar resultados y ajustar la estrategia sin esperar a que los problemas 
+crezcan. La automatización, cuando se usa con responsabilidad, reduce la carga operativa: bots en Telegram pueden
+recibir reportes, enviar recordatorios y mantener informados a los participantes sin depender de una persona 
+disponible todo el tiempo. Esto libera energía para tareas más humanas, como el análisis y la toma de decisiones.
+Finalmente, canales como Telegram permiten comunicación rápida, accesible y organizada, fortaleciendo la 
+coordinación del equipo. Pero siempre deben complementarse con rutas alternativas para evitar exclusión digital 
+y garantizar que la participación siga siendo abierta y diversa.
